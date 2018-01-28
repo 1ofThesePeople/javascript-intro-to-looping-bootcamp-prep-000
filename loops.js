@@ -1,5 +1,5 @@
 function forLoop(array) {
-  for(int i = 0; i < 25; i++) {
+  // for(int i = 0; i < 25; i++) {
   //   if(i+1 !== 1) {
   //     tempString = `I am ${i+1} strange loops.`
   //   } else {
@@ -7,5 +7,5 @@ function forLoop(array) {
   //   }
   //   array.push(tempString)
   // }
-  return array
+  // return array
 }
