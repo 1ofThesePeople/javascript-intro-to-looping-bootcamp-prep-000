@@ -7,5 +7,5 @@ function forLoop(array) {
   //   }
   //   array.push(tempString)
   // }
-  // return array
+  return array
 }
